@@ -50,7 +50,7 @@ android {
     compileSdk = 37
 
     defaultConfig {
-    applicationId = "re.muwmix.yumaplayer"
+        applicationId = "com.mylarz.encore"
         minSdk = 26
         targetSdk = 37
         versionCode = 7
